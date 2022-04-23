@@ -1,7 +1,7 @@
 # Yolo-Object-Detection
 
 ## Introduction
-Object Detection is a task in Artificial Intelligence that focuses on detecting objects in images. Yolo V5 is one of the best available models for Object Detection at the moment. Here we use its capabilities to detect a tree in custom images and videos
+Object Detection is a task in Artificial Intelligence that focuses on detecting objects in images. Yolo is one of the best available models for Object Detection at the moment. Here we use its capabilities to detect a tree in custom images and videos
 
 ## Goal 🎯
 
